@@ -14,8 +14,6 @@ This project aims to revolutionize workout recommendations using machine learnin
   
 - **Integration of RandomForest Classifier:** Integrated a RandomForest classifier to cater to new users and improve the system's ability to provide accurate recommendations.
   
-- **User-Friendly Interface:** Developed a user-friendly interface for seamless interaction with the system, ensuring a smooth user experience.
-  
 - **Validation System for User Profiles:** Implemented a validation system to ensure the accuracy and reliability of user profiles, enhancing the overall effectiveness of the recommendation engine.
 
 ## Technologies Used:
