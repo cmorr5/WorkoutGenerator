@@ -26,3 +26,6 @@ This project aims to revolutionize workout recommendations using machine learnin
 
 - **August 2023 – Present**
 
+## Current Tasks/Future Work
+- **Creating a user friendly interface**
+
